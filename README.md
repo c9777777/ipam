@@ -1,6 +1,6 @@
 <!--
 ---
-page_type: sample
+page_type: samplef
 languages:
 - python
 products:
